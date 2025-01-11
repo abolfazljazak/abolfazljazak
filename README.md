@@ -53,4 +53,5 @@ Portfolio: yourwebsite.com
 
 
 💬 "Code is like humor. When you have to explain it, it’s bad."
+![Abolfazl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
