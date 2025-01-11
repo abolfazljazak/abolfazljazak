@@ -2,7 +2,8 @@
 <h3 align="center">🐍 BackEnd Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazljazak&label=Profile%20views&color=0e75b6&style=flat" alt="abolfazljazak" /> </p>
-- 💬 Ask me about **Django, Python**
+
+Passionate about crafting efficient and scalable solutions through code. I specialize in Python, Django, NestJS, and TypeScript, focusing on building tools that solve real-world challenges with precision and elegance.
 
 - 📫 How to reach me **jazakabolfazl@gmail.com**
 
