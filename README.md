@@ -71,13 +71,3 @@ Passionate about crafting efficient and scalable solutions through code. I speci
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </a>
 </p>
-# 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abolfazljazak&show_icons=true&theme=radical" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazljazak&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="160px" />
-</div>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400">
-</p>
